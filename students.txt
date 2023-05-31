@@ -1,0 +1,10 @@
+0:vasya
+1:zhenya
+2:kolya
+3:olya
+4:pasha
+5:hodor
+6:master
+7:margarita
+8:helper
+9:support
